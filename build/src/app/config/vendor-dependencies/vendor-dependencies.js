@@ -1,0 +1,1 @@
+angular.module('doubtfire.config.vendor-dependencies', ['ngCookies', 'ngCsv', 'ngSanitize', 'templates-app', 'ui.router', 'ui.router.upgrade', 'ui.bootstrap', 'ui.codemirror', 'angularFileUpload', 'angular.filter', 'localization', 'markdown', 'nvd3', 'xeditable', 'LocalStorageModule', 'angular-md5', 'angulartics', 'angulartics.google.analytics']);

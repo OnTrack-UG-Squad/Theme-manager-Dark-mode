@@ -1,0 +1,1 @@
+angular.module("doubtfire.sessions.cookies", []).constant("usernameCookie", "doubtfire_user").constant("rememberDoubtfireCredentialsCookie", "remember_doubtfire_credentials_token").constant("doubtfireLoginTimeCookie", "doubtfire_login_time");
